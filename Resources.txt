@@ -1,3 +1,5 @@
+Main understanding of the algorithm and it's source code from the book: introduction to the analysis and design of algorithms, 3rd edition: https://www.pearson.com/en-us/subject-catalog/p/introduction-to-the-design-and-analysis-of-algorithms/P200000003403/9780132316811
+
 For the time complexity analysis: https://medium.com/nerd-for-tech/quick-select-algorithm-17ac146b6218
 
 Animated Lomuto Partitioning gif: https://kenjj.medium.com/understanding-quicksort-algorithm-in-javascript-f39397994e51
