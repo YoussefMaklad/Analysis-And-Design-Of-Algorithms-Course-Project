@@ -11,7 +11,7 @@ def lomuto_partition(arr, left, right) -> int:
 
 def quick_select_kth_largest(arr, k):
     if k > len(arr) or k <= 0:
-        return IndexError('Invalid Index')
+        raise IndexError(f'Invalid Index, k = {k}')
     k = len(arr) - k
     left, right = 0, len(arr) - 1
     if left == right:
