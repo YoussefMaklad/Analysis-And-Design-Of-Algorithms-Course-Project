@@ -28,4 +28,5 @@ def quick_select_kth_largest(arr, k):
 
 # Sorted: [1, 2, 3, 4, 5]
 A = [4, 2, 1, 5, 3]
-print(quick_select_kth_largest(A, 2))
+K = 2
+print(f"The {K} Largest Element in the array is: {quick_select_kth_largest(A, K)}\n")
